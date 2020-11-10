@@ -1,0 +1,12 @@
+{
+    "name": "wouerner/dislikes",
+    "authors": [
+        {
+            "name": "wouerner",
+            "email": "wouerner@protonmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
